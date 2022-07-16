@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "heroku-addon-auth": "^0.0.5"
+  }
+}
